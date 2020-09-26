@@ -1,0 +1,38 @@
+.bg{
+    background-color: #fcebcb;
+}
+.mh{
+    color: #fab12a;
+    text-align: center;
+    padding-top: 2%;
+}
+.wid{
+    width:20%;
+    margin-top: 5%;
+}
+.flexes{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+.headings{
+    color: #fab12a;
+    margin-top: 3%;
+}
+.bn{
+    background-color: #fab12a;
+    border: none;
+    outline: none;
+    border-radius: 20px;
+    padding: 5%;
+    width:130px;
+    color: white;
+    margin-bottom: 10%;
+}
+.btfl{
+    width: 30%;
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-top: 5%;
+}
