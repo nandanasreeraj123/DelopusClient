@@ -1,0 +1,43 @@
+.outer {
+    color: black;
+    background-color: rgb(201, 196, 196);
+  }
+
+
+.flexing {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .left {
+    padding: 2%;
+    width: 40%;
+  }
+  .top{
+      padding-bottom: 20%;
+  }
+
+  .address,.phone{
+      width: 40%;
+      padding-bottom: 4%;
+  }
+
+  .right{
+      padding: 2%;
+      width: 45%;
+  }
+  input{
+      width: 95%;
+      border-radius: 1%;
+  }
+  .msg{
+     padding-bottom: 20%;
+  }
+  .sendbutton{
+      margin-top: 7%;
+      background-color: grey;
+      border: none;
+      padding: 1%;
+      padding-left: 3%;
+      padding-right: 3%;
+  }
